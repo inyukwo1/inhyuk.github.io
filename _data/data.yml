@@ -7,17 +7,17 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Hyuk-kyu Kang
+    name: Inhyuk Na
     tagline: PhD Student in Database & Data Mining Lab
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hkkang@dblab.postech.ac.kr
-    phone: 054-xxx-xxxx
+    email: ina@dblab.postech.ac.kr
+#    phone: 054-xxx-xxxx
 #    website: blog.webjeda.com #do not add http://
 #    linkedin: alandoe
 #    xing: alandoe
-    github: hyukyu
+#    github: 
 #    telegram: # add your nickname without '@' sign
 #    gitlab:
 #    bitbucket:
@@ -27,6 +27,8 @@ sidebar:
 #    goodreads: # Number-Username, e.g. 123456-alandoe
 
     interests:
+      - item: Stock Pattern Prediction
+
       - item: Machine Learning
         link:
 
@@ -81,8 +83,14 @@ experiences:
       company: Pohang University of Science of Technology (POSTECH)
 
     - role: Intern
-      time: 2018.6 - 2018.8
-      company: Netmarble, Seoul Korea
+      time: 2018.02 - 2018.07
+      company: VoyagerX, Seoul, South Korea
+      role: Research on deep learning based photo enhancement, App and Web development
+    
+    - role: Intern
+      time: 2017.04 - 2017.07
+      company: Oracle Labs, Belmont, CA, USA 
+      role: Performance analysis and enhancing on PGX and PGX-D, graph engines developed by Oracle Labs
 #       details:  
 #           I was in the AI research team. I developed AI agents for mobile strategy games
 #         Describe your role here lorem ipsum dolor sit amet, consectetuer
